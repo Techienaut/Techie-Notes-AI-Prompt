@@ -1,4 +1,4 @@
-<video src="https://www.youtube.com/watch?v=g38Hs4WxFRU" width="600" controls></video>
+See Video https://www.youtube.com/watch?v=g38Hs4WxFRU
 
 # 1. Preface
 - This is specifically made for Notion AI. Although if anyone wants to create a new prompt based on it, for ChatGPT, Claude, or any Generic LLM -- Please feel free to make it! And even add it as a pull request!
